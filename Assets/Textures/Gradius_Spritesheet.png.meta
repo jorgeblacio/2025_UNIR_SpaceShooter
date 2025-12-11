@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: bfad64decd052426a81a79ad415238bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5160211297960933376
+    second: Gradius_Spritesheet_0
+  - first:
+      213: 6717247008326681623
+    second: Gradius_Spritesheet_1
+  - first:
+      213: -3660607517964620345
+    second: Gradius_Spritesheet_2
+  - first:
+      213: -6610836329817049384
+    second: Gradius_Spritesheet_3
+  - first:
+      213: 7563870597318664260
+    second: Gradius_Spritesheet_4
+  - first:
+      213: -4878990847077696313
+    second: Gradius_Spritesheet_5
+  - first:
+      213: -3263321998541545261
+    second: Gradius_Spritesheet_6
+  - first:
+      213: -3924463684889263409
+    second: Gradius_Spritesheet_7
+  - first:
+      213: 5403165501801311875
+    second: Gradius_Spritesheet_8
+  - first:
+      213: 2336799733152374686
+    second: Gradius_Spritesheet_9
+  - first:
+      213: -5313216380513507786
+    second: Gradius_Spritesheet_10
+  - first:
+      213: 6277312787107311135
+    second: Gradius_Spritesheet_11
+  - first:
+      213: -6490916824128200329
+    second: Gradius_Spritesheet_12
+  - first:
+      213: 3889950029245117952
+    second: Gradius_Spritesheet_13
+  - first:
+      213: -2071056265698226406
+    second: Gradius_Spritesheet_14
+  - first:
+      213: 7681902269668394953
+    second: Gradius_Spritesheet_15
+  - first:
+      213: 4893546542490155493
+    second: Gradius_Spritesheet_16
+  - first:
+      213: -7843821455817619007
+    second: Gradius_Spritesheet_17
+  - first:
+      213: -7181604015800131978
+    second: Gradius_Spritesheet_18
+  - first:
+      213: 4867473394360033791
+    second: Gradius_Spritesheet_19
+  - first:
+      213: -1290784502055215898
+    second: Gradius_Spritesheet_20
+  - first:
+      213: 7183149236529821109
+    second: Gradius_Spritesheet_21
+  - first:
+      213: -4268431988364693505
+    second: Gradius_Spritesheet_22
+  - first:
+      213: 5855060875403711602
+    second: Gradius_Spritesheet_23
+  - first:
+      213: 2037635694375024700
+    second: Gradius_Spritesheet_24
+  - first:
+      213: 8173374068049237549
+    second: Gradius_Spritesheet_25
+  - first:
+      213: 3686896146658325939
+    second: Gradius_Spritesheet_26
+  - first:
+      213: 1874678445995417874
+    second: Gradius_Spritesheet_27
+  - first:
+      213: -8472832642365907747
+    second: Gradius_Spritesheet_28
+  - first:
+      213: 3199820989896979963
+    second: Gradius_Spritesheet_29
+  - first:
+      213: 7177341309575297200
+    second: Gradius_Spritesheet_30
+  - first:
+      213: -3380013268095608978
+    second: Gradius_Spritesheet_31
+  - first:
+      213: -821885422193790564
+    second: Gradius_Spritesheet_32
+  - first:
+      213: -6617079636635694778
+    second: Gradius_Spritesheet_33
+  - first:
+      213: -3323679033788123218
+    second: Gradius_Spritesheet_34
+  - first:
+      213: 8292095985695869622
+    second: Gradius_Spritesheet_35
+  - first:
+      213: -8518991257196673908
+    second: Gradius_Spritesheet_36
+  - first:
+      213: 2714171460618555473
+    second: Gradius_Spritesheet_37
+  - first:
+      213: -6196062675915678079
+    second: Gradius_Spritesheet_38
+  - first:
+      213: 6629075830144081258
+    second: Gradius_Spritesheet_39
+  - first:
+      213: 8188028612796769582
+    second: Gradius_Spritesheet_40
+  - first:
+      213: 7646618148008443550
+    second: Gradius_Spritesheet_41
+  - first:
+      213: -6473655174073372229
+    second: Gradius_Spritesheet_42
+  - first:
+      213: -5620986188499348098
+    second: Gradius_Spritesheet_43
+  - first:
+      213: 5002138767798455306
+    second: Gradius_Spritesheet_44
+  - first:
+      213: -3309927164258627613
+    second: Gradius_Spritesheet_45
+  - first:
+      213: -6146026819009352261
+    second: Gradius_Spritesheet_46
+  - first:
+      213: -2417784797465224551
+    second: Gradius_Spritesheet_47
+  - first:
+      213: 2975787884875472217
+    second: Gradius_Spritesheet_48
+  - first:
+      213: 3188014545807527677
+    second: Gradius_Spritesheet_49
+  - first:
+      213: 7422806457200130631
+    second: Gradius_Spritesheet_50
+  - first:
+      213: 1874818124806154343
+    second: Gradius_Spritesheet_51
+  - first:
+      213: 3575477771053038725
+    second: Gradius_Spritesheet_52
+  - first:
+      213: 6206019437022790764
+    second: Gradius_Spritesheet_53
+  - first:
+      213: -7967950407022187236
+    second: Gradius_Spritesheet_54
+  - first:
+      213: 449304629435837010
+    second: Gradius_Spritesheet_55
+  - first:
+      213: -5869993417991669528
+    second: Gradius_Spritesheet_56
+  - first:
+      213: 2981930696616637716
+    second: Gradius_Spritesheet_57
+  - first:
+      213: 8037298148519188732
+    second: Gradius_Spritesheet_58
+  - first:
+      213: 1946997707475840099
+    second: Gradius_Spritesheet_59
+  - first:
+      213: 5071464960248969375
+    second: Gradius_Spritesheet_60
+  - first:
+      213: -6501750061298296351
+    second: Gradius_Spritesheet_61
+  - first:
+      213: -5441893050402304059
+    second: Gradius_Spritesheet_62
+  - first:
+      213: 6532661088986550631
+    second: Gradius_Spritesheet_63
+  - first:
+      213: -5969061231336552849
+    second: Gradius_Spritesheet_64
+  - first:
+      213: 1206005486447553805
+    second: Gradius_Spritesheet_65
+  - first:
+      213: 5483039625264285398
+    second: Gradius_Spritesheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0083be4e5d0cc9740800000000000000
+      internalID: 5160211297960933376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140ed78094783d50800000000000000
+      internalID: 6717247008326681623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 117
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd289d6bd8e23dc0800000000000000
+      internalID: -3660607517964620345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 118
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f10d32679144a0800000000000000
+      internalID: -6610836329817049384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4406330bb3448f860800000000000000
+      internalID: 7563870597318664260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 114
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3d81bca75a4cb0800000000000000
+      internalID: -4878990847077696313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 116
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a631aee956b2d0800000000000000
+      internalID: -3263321998541545261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2414042118989c0800000000000000
+      internalID: -3924463684889263409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 94
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e238d8566ebfa40800000000000000
+      internalID: 5403165501801311875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f56c5f9fafd6020800000000000000
+      internalID: 2336799733152374686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 93
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636a4b04ad9a346b0800000000000000
+      internalID: -5313216380513507786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 94
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e6c83a8be7d1750800000000000000
+      internalID: 6277312787107311135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7716b3fe981abe5a0800000000000000
+      internalID: -6490916824128200329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006fc2711f0ebf530800000000000000
+      internalID: 3889950029245117952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 92
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc53d9c412243e0800000000000000
+      internalID: -2071056265698226406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c70adee9699b9a60800000000000000
+      internalID: 7681902269668394953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 95
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e977fc37ae59e340800000000000000
+      internalID: 4893546542490155493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9476cb1f5252390800000000000000
+      internalID: -7843821455817619007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ed6b88231d55c90800000000000000
+      internalID: -7181604015800131978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 76
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ae70634dbc8340800000000000000
+      internalID: 4867473394360033791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec5b619556361ee0800000000000000
+      internalID: -1290784502055215898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 73
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b57af33c2cafa360800000000000000
+      internalID: 7183149236529821109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 73
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffab91c8bb73c4c0800000000000000
+      internalID: -4268431988364693505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 73
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d9b048da514150800000000000000
+      internalID: 5855060875403711602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3831e04ed2274c10800000000000000
+      internalID: 2037635694375024700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 73
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d6761968ad6170800000000000000
+      internalID: 8173374068049237549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 69
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b57359e28c7a2330800000000000000
+      internalID: 3686896146658325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21163a93d12340a10800000000000000
+      internalID: 1874678445995417874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc127e4a937a6a80800000000000000
+      internalID: -8472832642365907747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f5a7ac3c086c20800000000000000
+      internalID: 3199820989896979963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8f8f4d4e90b9360800000000000000
+      internalID: 7177341309575297200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 39
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67dd0b37d7c711d0800000000000000
+      internalID: -3380013268095608978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91311420931894f0800000000000000
+      internalID: -821885422193790564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 38
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649cbd711296b24a0800000000000000
+      internalID: -6617079636635694778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 38
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea735a3478befd1d0800000000000000
+      internalID: -3323679033788123218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba48d69d51731370800000000000000
+      internalID: 8292095985695869622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84422e469676c980800000000000000
+      internalID: -8518991257196673908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501ca9209caaa520800000000000000
+      internalID: 2714171460618555473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e5dfb03d9230aa0800000000000000
+      internalID: -6196062675915678079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9ddc58553ffb50800000000000000
+      internalID: 6629075830144081258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256c7c24a8b1a170800000000000000
+      internalID: 8188028612796769582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e391d21be3e1a60800000000000000
+      internalID: 7646618148008443550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bcf60be4f826a0800000000000000
+      internalID: -6473655174073372229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759e13c7de3ef1b0800000000000000
+      internalID: -5620986188499348098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c46d3f4ba2b6540800000000000000
+      internalID: 5002138767798455306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc2f5e7c6c012d0800000000000000
+      internalID: -3309927164258627613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 17
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd6ce0db2de4baa0800000000000000
+      internalID: -6146026819009352261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99adeb3698d427ed0800000000000000
+      internalID: -2417784797465224551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 17
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd9ec905f1c4920800000000000000
+      internalID: 2975787884875472217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec2ada65a1e3c20800000000000000
+      internalID: 3188014545807527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab3e5252b130760800000000000000
+      internalID: 7422806457200130631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768e88bb621b40a10800000000000000
+      internalID: 1874818124806154343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cfbedc616ae9130800000000000000
+      internalID: 3575477771053038725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64c9ec0cc5302650800000000000000
+      internalID: 6206019437022790764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d638122572c6190800000000000000
+      internalID: -7967950407022187236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a26711e204c3600800000000000000
+      internalID: 449304629435837010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b9be3618998ea0800000000000000
+      internalID: -5869993417991669528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415faac6b22f16920800000000000000
+      internalID: 2981930696616637716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8146825183a8f60800000000000000
+      internalID: 8037298148519188732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ce89c6910250b10800000000000000
+      internalID: 1946997707475840099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98fa76f286716640800000000000000
+      internalID: 5071464960248969375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9d0f954c425c5a0800000000000000
+      internalID: -6501750061298296351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf8a116a138a74b0800000000000000
+      internalID: -5441893050402304059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615f0f16aca8aa50800000000000000
+      internalID: 6532661088986550631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6601af7f62a92da0800000000000000
+      internalID: -5969061231336552849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de0e8a9979cb010800000000000000
+      internalID: 1206005486447553805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c4412d7ba71c40800000000000000
+      internalID: 5483039625264285398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gradius_Spritesheet_0: 5160211297960933376
+      Gradius_Spritesheet_1: 6717247008326681623
+      Gradius_Spritesheet_10: -5313216380513507786
+      Gradius_Spritesheet_11: 6277312787107311135
+      Gradius_Spritesheet_12: -6490916824128200329
+      Gradius_Spritesheet_13: 3889950029245117952
+      Gradius_Spritesheet_14: -2071056265698226406
+      Gradius_Spritesheet_15: 7681902269668394953
+      Gradius_Spritesheet_16: 4893546542490155493
+      Gradius_Spritesheet_17: -7843821455817619007
+      Gradius_Spritesheet_18: -7181604015800131978
+      Gradius_Spritesheet_19: 4867473394360033791
+      Gradius_Spritesheet_2: -3660607517964620345
+      Gradius_Spritesheet_20: -1290784502055215898
+      Gradius_Spritesheet_21: 7183149236529821109
+      Gradius_Spritesheet_22: -4268431988364693505
+      Gradius_Spritesheet_23: 5855060875403711602
+      Gradius_Spritesheet_24: 2037635694375024700
+      Gradius_Spritesheet_25: 8173374068049237549
+      Gradius_Spritesheet_26: 3686896146658325939
+      Gradius_Spritesheet_27: 1874678445995417874
+      Gradius_Spritesheet_28: -8472832642365907747
+      Gradius_Spritesheet_29: 3199820989896979963
+      Gradius_Spritesheet_3: -6610836329817049384
+      Gradius_Spritesheet_30: 7177341309575297200
+      Gradius_Spritesheet_31: -3380013268095608978
+      Gradius_Spritesheet_32: -821885422193790564
+      Gradius_Spritesheet_33: -6617079636635694778
+      Gradius_Spritesheet_34: -3323679033788123218
+      Gradius_Spritesheet_35: 8292095985695869622
+      Gradius_Spritesheet_36: -8518991257196673908
+      Gradius_Spritesheet_37: 2714171460618555473
+      Gradius_Spritesheet_38: -6196062675915678079
+      Gradius_Spritesheet_39: 6629075830144081258
+      Gradius_Spritesheet_4: 7563870597318664260
+      Gradius_Spritesheet_40: 8188028612796769582
+      Gradius_Spritesheet_41: 7646618148008443550
+      Gradius_Spritesheet_42: -6473655174073372229
+      Gradius_Spritesheet_43: -5620986188499348098
+      Gradius_Spritesheet_44: 5002138767798455306
+      Gradius_Spritesheet_45: -3309927164258627613
+      Gradius_Spritesheet_46: -6146026819009352261
+      Gradius_Spritesheet_47: -2417784797465224551
+      Gradius_Spritesheet_48: 2975787884875472217
+      Gradius_Spritesheet_49: 3188014545807527677
+      Gradius_Spritesheet_5: -4878990847077696313
+      Gradius_Spritesheet_50: 7422806457200130631
+      Gradius_Spritesheet_51: 1874818124806154343
+      Gradius_Spritesheet_52: 3575477771053038725
+      Gradius_Spritesheet_53: 6206019437022790764
+      Gradius_Spritesheet_54: -7967950407022187236
+      Gradius_Spritesheet_55: 449304629435837010
+      Gradius_Spritesheet_56: -5869993417991669528
+      Gradius_Spritesheet_57: 2981930696616637716
+      Gradius_Spritesheet_58: 8037298148519188732
+      Gradius_Spritesheet_59: 1946997707475840099
+      Gradius_Spritesheet_6: -3263321998541545261
+      Gradius_Spritesheet_60: 5071464960248969375
+      Gradius_Spritesheet_61: -6501750061298296351
+      Gradius_Spritesheet_62: -5441893050402304059
+      Gradius_Spritesheet_63: 6532661088986550631
+      Gradius_Spritesheet_64: -5969061231336552849
+      Gradius_Spritesheet_65: 1206005486447553805
+      Gradius_Spritesheet_66: 5483039625264285398
+      Gradius_Spritesheet_7: -3924463684889263409
+      Gradius_Spritesheet_8: 5403165501801311875
+      Gradius_Spritesheet_9: 2336799733152374686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
