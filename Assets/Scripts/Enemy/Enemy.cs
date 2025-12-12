@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using System.Collections;
 
 public class Enemy : MonoBehaviour
 {
@@ -12,18 +14,18 @@ public class Enemy : MonoBehaviour
     [SerializeField] protected float audioVolume = 0.5f;
     
     [Header("Visual Feedback")]
+    [SerializeField] protected SpriteRenderer spriteRenderer;
     [SerializeField] protected GameObject explosionEffect;
     [SerializeField] protected float hitFlashDuration = 0.1f;
     
+    
     protected int currentHealth;
-    protected SpriteRenderer spriteRenderer;
     protected Color originalColor;
     protected AudioSource audioSource;
     
     protected virtual void Start()
     {
         currentHealth = maxHealth;
-        spriteRenderer = GetComponent<SpriteRenderer>();
         if (spriteRenderer != null)
         {
             originalColor = spriteRenderer.color;
@@ -68,7 +70,7 @@ public class Enemy : MonoBehaviour
         Destroy(gameObject);
     }
     
-    protected System.Collections.IEnumerator FlashRed()
+    protected IEnumerator FlashRed()
     {
         if (spriteRenderer != null)
         {

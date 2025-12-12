@@ -216,6 +216,7 @@ MonoBehaviour:
   hitSound: {fileID: 0}
   deathSound: {fileID: 0}
   audioVolume: 0.5
+  spriteRenderer: {fileID: 5827587150252447685}
   explosionEffect: {fileID: 2116526292403559526, guid: 8eaa2ede5b416468aaebb432257df645, type: 3}
   hitFlashDuration: 0.1
   movementType: 0
