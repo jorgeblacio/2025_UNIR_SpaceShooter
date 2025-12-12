@@ -4,6 +4,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerSpaceShip : MonoBehaviour
 {
+    public event Action OnPlayerDeath;
+
+    [Header("Movement Settings")]
     [SerializeField] float maxSpeed = 100f;
     [SerializeField] float acceleration = 300f;
     [SerializeField] float deceleration = 200f; 
@@ -20,6 +23,13 @@ public class PlayerSpaceShip : MonoBehaviour
 
     [Header("Weapon System")]
     [SerializeField] private WeaponManager weaponManager;
+
+    [Header("Death")]
+    [SerializeField] private GameObject deathExplosion;
+    [SerializeField] private AudioClip deathSound;
+    [SerializeField] private float deathSoundVolume = 0.5f;
+    
+    private bool isDead = false;
 
     [Header("Input")]
     [SerializeField] InputActionReference move;
@@ -143,5 +153,42 @@ public class PlayerSpaceShip : MonoBehaviour
     private void OnMove(InputAction.CallbackContext context)
     {
         rawMove = context.ReadValue<Vector2>();
+    }
+
+    private void Die()
+    {
+        if (isDead) return;
+        
+        isDead = true;
+        
+        if (deathSound != null)
+        {
+            AudioSource.PlayClipAtPoint(deathSound, transform.position, deathSoundVolume);
+        }
+        
+        if (deathExplosion != null)
+        {
+            Instantiate(deathExplosion, transform.position, Quaternion.identity);
+        }
+        
+        if (engineParticles != null && engineParticles.isPlaying)
+        {
+            engineParticles.Stop();
+        }
+        
+        OnPlayerDeath?.Invoke();
+        
+        if (shipSpriteRenderer != null)
+        {
+            shipSpriteRenderer.enabled = false;
+        }
+        
+        Collider2D col = GetComponent<Collider2D>();
+        if (col != null)
+        {
+            col.enabled = false;
+        }
+        
+        Destroy(gameObject, 0.5f);
     }
 }

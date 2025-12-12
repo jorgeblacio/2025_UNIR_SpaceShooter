@@ -12,7 +12,7 @@ public class BasicLaser : Weapon
             Rigidbody2D rb = projectile.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.linearVelocity = Vector2.right * projectileSpeed; // Shoots right
+                rb.linearVelocity = Vector2.right * projectileSpeed;
             }
         }
     }

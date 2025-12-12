@@ -1,0 +1,2925 @@
+fileFormatVersion: 2
+guid: 70c6902dc2eb047c58761d795bb83316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1719789271705327759
+    second: Gradius_Enemies_Spritesheet_0
+  - first:
+      213: 4106655562576192596
+    second: Gradius_Enemies_Spritesheet_1
+  - first:
+      213: -2452190612262233822
+    second: Gradius_Enemies_Spritesheet_2
+  - first:
+      213: 6643570853191473350
+    second: Gradius_Enemies_Spritesheet_3
+  - first:
+      213: 3901372870286404823
+    second: Gradius_Enemies_Spritesheet_4
+  - first:
+      213: 6919634986940398478
+    second: Gradius_Enemies_Spritesheet_5
+  - first:
+      213: 2408960771409021981
+    second: Gradius_Enemies_Spritesheet_6
+  - first:
+      213: -2233746668239314801
+    second: Gradius_Enemies_Spritesheet_7
+  - first:
+      213: -7914486269389582369
+    second: Gradius_Enemies_Spritesheet_8
+  - first:
+      213: -3250973786457417263
+    second: Gradius_Enemies_Spritesheet_9
+  - first:
+      213: -1815828555690345497
+    second: Gradius_Enemies_Spritesheet_10
+  - first:
+      213: 3659998456944774311
+    second: Gradius_Enemies_Spritesheet_11
+  - first:
+      213: 5039002520524720427
+    second: Gradius_Enemies_Spritesheet_12
+  - first:
+      213: -6828092478616529439
+    second: Gradius_Enemies_Spritesheet_13
+  - first:
+      213: 8904771406581162219
+    second: Gradius_Enemies_Spritesheet_14
+  - first:
+      213: -1356996325582536749
+    second: Gradius_Enemies_Spritesheet_15
+  - first:
+      213: -3613040050138861992
+    second: Gradius_Enemies_Spritesheet_16
+  - first:
+      213: 3467572618174798021
+    second: Gradius_Enemies_Spritesheet_17
+  - first:
+      213: -9208058404241900638
+    second: Gradius_Enemies_Spritesheet_18
+  - first:
+      213: -1569431523453396809
+    second: Gradius_Enemies_Spritesheet_19
+  - first:
+      213: -6490802540020823978
+    second: Gradius_Enemies_Spritesheet_20
+  - first:
+      213: -2389748670951153432
+    second: Gradius_Enemies_Spritesheet_21
+  - first:
+      213: -9008951369695527597
+    second: Gradius_Enemies_Spritesheet_22
+  - first:
+      213: -6025431427866588857
+    second: Gradius_Enemies_Spritesheet_23
+  - first:
+      213: -3633517708632602002
+    second: Gradius_Enemies_Spritesheet_24
+  - first:
+      213: 5738297446706815178
+    second: Gradius_Enemies_Spritesheet_25
+  - first:
+      213: -1028162694211701439
+    second: Gradius_Enemies_Spritesheet_26
+  - first:
+      213: 6156207850131500464
+    second: Gradius_Enemies_Spritesheet_27
+  - first:
+      213: -6832137627578067409
+    second: Gradius_Enemies_Spritesheet_28
+  - first:
+      213: -6670414858884005450
+    second: Gradius_Enemies_Spritesheet_29
+  - first:
+      213: -6198466016908065981
+    second: Gradius_Enemies_Spritesheet_30
+  - first:
+      213: 3258712949056844127
+    second: Gradius_Enemies_Spritesheet_31
+  - first:
+      213: 5443021823751236249
+    second: Gradius_Enemies_Spritesheet_32
+  - first:
+      213: 4670870346757048932
+    second: Gradius_Enemies_Spritesheet_33
+  - first:
+      213: -4505907874096311774
+    second: Gradius_Enemies_Spritesheet_34
+  - first:
+      213: -7480947087389469404
+    second: Gradius_Enemies_Spritesheet_35
+  - first:
+      213: 2532849609061268608
+    second: Gradius_Enemies_Spritesheet_36
+  - first:
+      213: 1294385980758545002
+    second: Gradius_Enemies_Spritesheet_37
+  - first:
+      213: 793195360387497466
+    second: Gradius_Enemies_Spritesheet_38
+  - first:
+      213: -8802777678650189423
+    second: Gradius_Enemies_Spritesheet_39
+  - first:
+      213: -8299318008007782
+    second: Gradius_Enemies_Spritesheet_40
+  - first:
+      213: -8435942295177357574
+    second: Gradius_Enemies_Spritesheet_41
+  - first:
+      213: -5192045731061623244
+    second: Gradius_Enemies_Spritesheet_42
+  - first:
+      213: -1779374289261070997
+    second: Gradius_Enemies_Spritesheet_43
+  - first:
+      213: -3854161560578959875
+    second: Gradius_Enemies_Spritesheet_44
+  - first:
+      213: 6781549880518062689
+    second: Gradius_Enemies_Spritesheet_45
+  - first:
+      213: 7353271774381922955
+    second: Gradius_Enemies_Spritesheet_46
+  - first:
+      213: 2511301862754377528
+    second: Gradius_Enemies_Spritesheet_47
+  - first:
+      213: -9210579209524748450
+    second: Gradius_Enemies_Spritesheet_48
+  - first:
+      213: -272532953186716175
+    second: Gradius_Enemies_Spritesheet_49
+  - first:
+      213: 761875527813888029
+    second: Gradius_Enemies_Spritesheet_50
+  - first:
+      213: -3948379959401772392
+    second: Gradius_Enemies_Spritesheet_51
+  - first:
+      213: -1267514913243046158
+    second: Gradius_Enemies_Spritesheet_52
+  - first:
+      213: -3530158765715424075
+    second: Gradius_Enemies_Spritesheet_53
+  - first:
+      213: -2767951005640051213
+    second: Gradius_Enemies_Spritesheet_54
+  - first:
+      213: -7084438432598990770
+    second: Gradius_Enemies_Spritesheet_55
+  - first:
+      213: -3130608294624827531
+    second: Gradius_Enemies_Spritesheet_56
+  - first:
+      213: -2515776927020090396
+    second: Gradius_Enemies_Spritesheet_57
+  - first:
+      213: 4937570751749098450
+    second: Gradius_Enemies_Spritesheet_58
+  - first:
+      213: 8073283193647291644
+    second: Gradius_Enemies_Spritesheet_59
+  - first:
+      213: 6946862306246416969
+    second: Gradius_Enemies_Spritesheet_60
+  - first:
+      213: 4228702811625317931
+    second: Gradius_Enemies_Spritesheet_61
+  - first:
+      213: -8021998063533678082
+    second: Gradius_Enemies_Spritesheet_62
+  - first:
+      213: 6478557258487156030
+    second: Gradius_Enemies_Spritesheet_63
+  - first:
+      213: 1428285028988413528
+    second: Gradius_Enemies_Spritesheet_64
+  - first:
+      213: 7832579682279347209
+    second: Gradius_Enemies_Spritesheet_65
+  - first:
+      213: -8320117603121827478
+    second: Gradius_Enemies_Spritesheet_66
+  - first:
+      213: -3360939830705776762
+    second: Gradius_Enemies_Spritesheet_67
+  - first:
+      213: 7660803594254005469
+    second: Gradius_Enemies_Spritesheet_68
+  - first:
+      213: -4480355350187756083
+    second: Gradius_Enemies_Spritesheet_69
+  - first:
+      213: 5320296463290025482
+    second: Gradius_Enemies_Spritesheet_70
+  - first:
+      213: 4644261946344203926
+    second: Gradius_Enemies_Spritesheet_71
+  - first:
+      213: 6122782711232314700
+    second: Gradius_Enemies_Spritesheet_72
+  - first:
+      213: 1117096658436102129
+    second: Gradius_Enemies_Spritesheet_73
+  - first:
+      213: 5071471255352670683
+    second: Gradius_Enemies_Spritesheet_74
+  - first:
+      213: 6457314063953432685
+    second: Gradius_Enemies_Spritesheet_75
+  - first:
+      213: 7126028550931862665
+    second: Gradius_Enemies_Spritesheet_76
+  - first:
+      213: 6985498823745526670
+    second: Gradius_Enemies_Spritesheet_77
+  - first:
+      213: -6145306876301109055
+    second: Gradius_Enemies_Spritesheet_78
+  - first:
+      213: 6766259571562264864
+    second: Gradius_Enemies_Spritesheet_79
+  - first:
+      213: -8850834421508418148
+    second: Gradius_Enemies_Spritesheet_80
+  - first:
+      213: -7072724839833728608
+    second: Gradius_Enemies_Spritesheet_81
+  - first:
+      213: 7163053862358867747
+    second: Gradius_Enemies_Spritesheet_82
+  - first:
+      213: 4111218521800444788
+    second: Gradius_Enemies_Spritesheet_83
+  - first:
+      213: -4794558582790615275
+    second: Gradius_Enemies_Spritesheet_84
+  - first:
+      213: 4793460081102055559
+    second: Gradius_Enemies_Spritesheet_85
+  - first:
+      213: -6505835650732604420
+    second: Gradius_Enemies_Spritesheet_86
+  - first:
+      213: -2779848266243350543
+    second: Gradius_Enemies_Spritesheet_87
+  - first:
+      213: 6339655520748331160
+    second: Gradius_Enemies_Spritesheet_88
+  - first:
+      213: 1572172427137311071
+    second: Gradius_Enemies_Spritesheet_89
+  - first:
+      213: 8067599889490806219
+    second: Gradius_Enemies_Spritesheet_90
+  - first:
+      213: 8233231783034335820
+    second: Gradius_Enemies_Spritesheet_91
+  - first:
+      213: -3761034020357672847
+    second: Gradius_Enemies_Spritesheet_92
+  - first:
+      213: 6051602977996081711
+    second: Gradius_Enemies_Spritesheet_93
+  - first:
+      213: -6944595704231506982
+    second: Gradius_Enemies_Spritesheet_94
+  - first:
+      213: -7164073747427069339
+    second: Gradius_Enemies_Spritesheet_95
+  - first:
+      213: 8136527086188383562
+    second: Gradius_Enemies_Spritesheet_96
+  - first:
+      213: -1804962391561963562
+    second: Gradius_Enemies_Spritesheet_97
+  - first:
+      213: 5805251357861533292
+    second: Gradius_Enemies_Spritesheet_98
+  - first:
+      213: -2016184711412981532
+    second: Gradius_Enemies_Spritesheet_99
+  - first:
+      213: -9122685362201866652
+    second: Gradius_Enemies_Spritesheet_100
+  - first:
+      213: -2166232188075766998
+    second: Gradius_Enemies_Spritesheet_101
+  - first:
+      213: 3348399371239564342
+    second: Gradius_Enemies_Spritesheet_102
+  - first:
+      213: 2781545744789985470
+    second: Gradius_Enemies_Spritesheet_103
+  - first:
+      213: -5944553874168962779
+    second: Gradius_Enemies_Spritesheet_104
+  - first:
+      213: -6935484173589546753
+    second: Gradius_Enemies_Spritesheet_105
+  - first:
+      213: -4940483122379298525
+    second: Gradius_Enemies_Spritesheet_106
+  - first:
+      213: 4811905806796919296
+    second: Gradius_Enemies_Spritesheet_107
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 115
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8816841b3bedd710800000000000000
+      internalID: 1719789271705327759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 114
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546c36e975cdf830800000000000000
+      internalID: 4106655562576192596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 110
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229df8261a118fdd0800000000000000
+      internalID: -2452190612262233822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8dd98ed74b23c50800000000000000
+      internalID: 6643570853191473350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 110
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc64c584f5742630800000000000000
+      internalID: 3901372870286404823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b72fbdb5b770060800000000000000
+      internalID: 6919634986940398478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 112
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c8fa1fe095e6120800000000000000
+      internalID: 2408960771409021981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8022697d332001e0800000000000000
+      internalID: -2233746668239314801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 114
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc355bba81a2290800000000000000
+      internalID: -7914486269389582369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 114
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9591cc09832e2d0800000000000000
+      internalID: -3250973786457417263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf01d9c81ecc6e0800000000000000
+      internalID: -1815828555690345497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 114
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accba0843deac230800000000000000
+      internalID: 3659998456944774311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 114
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298c2a38122ee540800000000000000
+      internalID: 5039002520524720427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 114
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59b86411ebd31a0800000000000000
+      internalID: -6828092478616529439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 114
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0635f2a6a149b70800000000000000
+      internalID: 8904771406581162219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 111
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df7424180bfa2de0800000000000000
+      internalID: -1356996325582536749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ea6349737ebddc0800000000000000
+      internalID: -3613040050138861992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81e2b9cea4f1030800000000000000
+      internalID: 3467572618174798021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7c10faa7663080800000000000000
+      internalID: -9208058404241900638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 91
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b892493852483ae0800000000000000
+      internalID: -1569431523453396809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 90
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580bd6ca790ce5a0800000000000000
+      internalID: -6490802540020823978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 90
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ae75ce38e5ded0800000000000000
+      internalID: -2389748670951153432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 90
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7782f576c9f280800000000000000
+      internalID: -9008951369695527597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 91
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749898b5a0e516ca0800000000000000
+      internalID: -6025431427866588857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6accdb25e6239dc0800000000000000
+      internalID: -3633517708632602002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0ad7eff1782af40800000000000000
+      internalID: 5738297446706815178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 90
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f3302a7b3bb1f0800000000000000
+      internalID: -1028162694211701439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 72
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd2f863c6e3f6550800000000000000
+      internalID: 6156207850131500464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 93
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2611a3a60f5f21a0800000000000000
+      internalID: -6832137627578067409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 93
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14bb7f60ded63a0800000000000000
+      internalID: -6670414858884005450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3434ddd9fff9af9a0800000000000000
+      internalID: -6198466016908065981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 93
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51bf796926493d20800000000000000
+      internalID: 3258712949056844127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2465a28f798b40800000000000000
+      internalID: 5443021823751236249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 96
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a0c5245d342d040800000000000000
+      internalID: 4670870346757048932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2229add69acc771c0800000000000000
+      internalID: -4505907874096311774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42558a082465e2890800000000000000
+      internalID: -7480947087389469404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 74
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c7591cc4d762320800000000000000
+      internalID: 2532849609061268608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62db59013596f110800000000000000
+      internalID: 1294385980758545002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd726d4afef10b00800000000000000
+      internalID: 793195360387497466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1995153275046d580800000000000000
+      internalID: -8802777678650189423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 74
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93314270d382eff0800000000000000
+      internalID: -8299318008007782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 73
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af692469d238dea80800000000000000
+      internalID: -8435942295177357574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361d7e8ae522f7b0800000000000000
+      internalID: -5192045731061623244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 72
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65712ee2846e47e0800000000000000
+      internalID: -1779374289261070997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 72
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d9ba1b74438ac0800000000000000
+      internalID: -3854161560578959875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 72
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1623fd6afa7ec1e50800000000000000
+      internalID: 6781549880518062689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 72
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad0f038b11c0660800000000000000
+      internalID: 7353271774381922955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 32
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f504d1dbfe9d220800000000000000
+      internalID: 2511301862754377528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fdda832037d2080800000000000000
+      internalID: -9210579209524748450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b7b719b4c73cf0800000000000000
+      internalID: -272532953186716175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f86681c9b29a00800000000000000
+      internalID: 761875527813888029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a0699a8598439c0800000000000000
+      internalID: -3948379959401772392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 51
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe53a8e6e1e86ee0800000000000000
+      internalID: -1267514913243046158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcfcc06e4b520fc0800000000000000
+      internalID: -3530158765715424075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 51
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b321c9334699d0800000000000000
+      internalID: -2767951005640051213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 52
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40efcfc7c40fad90800000000000000
+      internalID: -7084438432598990770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577eefbb758dd84d0800000000000000
+      internalID: -3130608294624827531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf7dac63a261dd0800000000000000
+      internalID: -2515776927020090396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 49
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0d573076c58440800000000000000
+      internalID: 4937570751749098450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 49
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc5a706a401a0070800000000000000
+      internalID: 8073283193647291644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 49
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a5e532676386060800000000000000
+      internalID: 6946862306246416969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b266f937dce5faa30800000000000000
+      internalID: 4228702811625317931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1243a73432ca090800000000000000
+      internalID: -8021998063533678082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc721708578e950800000000000000
+      internalID: 6478557258487156030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ecde9aa942d310800000000000000
+      internalID: 1428285028988413528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 27
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d335e8b9e2bc60800000000000000
+      internalID: 7832579682279347209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61f2703f11098c80800000000000000
+      internalID: -8320117603121827478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687125fe70b8b51d0800000000000000
+      internalID: -3360939830705776762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4bb81c744a05a60800000000000000
+      internalID: 7660803594254005469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 26
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b9840c8492d1c0800000000000000
+      internalID: -4480355350187756083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064b2af17d75d940800000000000000
+      internalID: 5320296463290025482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e5b342abb37040800000000000000
+      internalID: 4644261946344203926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db7eb9f6e78f450800000000000000
+      internalID: 6122782711232314700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 27
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f71cd10e79b08f00800000000000000
+      internalID: 1117096658436102129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 27
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd976e7ac3c716640800000000000000
+      internalID: 5071471255352670683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 27
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601419cdecfc9950800000000000000
+      internalID: 6457314063953432685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 27
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d595363db4e260800000000000000
+      internalID: 7126028550931862665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd2406b2a71f060800000000000000
+      internalID: 6985498823745526670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89e4a84fb77baa0800000000000000
+      internalID: -6145306876301109055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0293e0d2b3596ed50800000000000000
+      internalID: 6766259571562264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d034ccf48b2580800000000000000
+      internalID: -8850834421508418148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a901a72b32a8dd90800000000000000
+      internalID: -7072724839833728608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd3ec4987486360800000000000000
+      internalID: 7163053862358867747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b0ce1a67bfd0930800000000000000
+      internalID: 4111218521800444788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f07f12f5e467db0800000000000000
+      internalID: -4794558582790615275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886a130c8ac58240800000000000000
+      internalID: 4793460081102055559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 12
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c20fe1f0a6b5a0800000000000000
+      internalID: -6505835650732604420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff5419eabefb69d0800000000000000
+      internalID: -2779848266243350543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906c807b1bfaf750800000000000000
+      internalID: 6339655520748331160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51ee252e7a71d510800000000000000
+      internalID: 1572172427137311071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc584130b5fd5ff60800000000000000
+      internalID: 8067599889490806219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b7356fa0524270800000000000000
+      internalID: 8233231783034335820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170fb6c3c7f1ecbc0800000000000000
+      internalID: -3761034020357672847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a072188dc9bf350800000000000000
+      internalID: 6051602977996081711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbc3944007df9f90800000000000000
+      internalID: -6944595704231506982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56278e332e8149c90800000000000000
+      internalID: -7164073747427069339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d4a959640cae070800000000000000
+      internalID: 8136527086188383562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 6
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7720a944c73f6e0800000000000000
+      internalID: -1804962391561963562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d0393a55609050800000000000000
+      internalID: 5805251357861533292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e7aaefa21504e0800000000000000
+      internalID: -2016184711412981532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e4d444ff5b56180800000000000000
+      internalID: -9122685362201866652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b0ab85d4fffe1e0800000000000000
+      internalID: -2166232188075766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63420e0dc77e77e20800000000000000
+      internalID: 3348399371239564342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 6
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8d4bc1e190a9620800000000000000
+      internalID: 2781545744789985470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 6
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521acfd3fb3b08da0800000000000000
+      internalID: -5944553874168962779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8f9dfc3e530cf90800000000000000
+      internalID: -6935484173589546753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e4c7a6c0ef6bb0800000000000000
+      internalID: -4940483122379298525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius_Enemies_Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00215c236d257c240800000000000000
+      internalID: 4811905806796919296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gradius_Enemies_Spritesheet_0: 1719789271705327759
+      Gradius_Enemies_Spritesheet_1: 4106655562576192596
+      Gradius_Enemies_Spritesheet_10: -1815828555690345497
+      Gradius_Enemies_Spritesheet_100: -9122685362201866652
+      Gradius_Enemies_Spritesheet_101: -2166232188075766998
+      Gradius_Enemies_Spritesheet_102: 3348399371239564342
+      Gradius_Enemies_Spritesheet_103: 2781545744789985470
+      Gradius_Enemies_Spritesheet_104: -5944553874168962779
+      Gradius_Enemies_Spritesheet_105: -6935484173589546753
+      Gradius_Enemies_Spritesheet_106: -4940483122379298525
+      Gradius_Enemies_Spritesheet_107: 4811905806796919296
+      Gradius_Enemies_Spritesheet_11: 3659998456944774311
+      Gradius_Enemies_Spritesheet_12: 5039002520524720427
+      Gradius_Enemies_Spritesheet_13: -6828092478616529439
+      Gradius_Enemies_Spritesheet_14: 8904771406581162219
+      Gradius_Enemies_Spritesheet_15: -1356996325582536749
+      Gradius_Enemies_Spritesheet_16: -3613040050138861992
+      Gradius_Enemies_Spritesheet_17: 3467572618174798021
+      Gradius_Enemies_Spritesheet_18: -9208058404241900638
+      Gradius_Enemies_Spritesheet_19: -1569431523453396809
+      Gradius_Enemies_Spritesheet_2: -2452190612262233822
+      Gradius_Enemies_Spritesheet_20: -6490802540020823978
+      Gradius_Enemies_Spritesheet_21: -2389748670951153432
+      Gradius_Enemies_Spritesheet_22: -9008951369695527597
+      Gradius_Enemies_Spritesheet_23: -6025431427866588857
+      Gradius_Enemies_Spritesheet_24: -3633517708632602002
+      Gradius_Enemies_Spritesheet_25: 5738297446706815178
+      Gradius_Enemies_Spritesheet_26: -1028162694211701439
+      Gradius_Enemies_Spritesheet_27: 6156207850131500464
+      Gradius_Enemies_Spritesheet_28: -6832137627578067409
+      Gradius_Enemies_Spritesheet_29: -6670414858884005450
+      Gradius_Enemies_Spritesheet_3: 6643570853191473350
+      Gradius_Enemies_Spritesheet_30: -6198466016908065981
+      Gradius_Enemies_Spritesheet_31: 3258712949056844127
+      Gradius_Enemies_Spritesheet_32: 5443021823751236249
+      Gradius_Enemies_Spritesheet_33: 4670870346757048932
+      Gradius_Enemies_Spritesheet_34: -4505907874096311774
+      Gradius_Enemies_Spritesheet_35: -7480947087389469404
+      Gradius_Enemies_Spritesheet_36: 2532849609061268608
+      Gradius_Enemies_Spritesheet_37: 1294385980758545002
+      Gradius_Enemies_Spritesheet_38: 793195360387497466
+      Gradius_Enemies_Spritesheet_39: -8802777678650189423
+      Gradius_Enemies_Spritesheet_4: 3901372870286404823
+      Gradius_Enemies_Spritesheet_40: -8299318008007782
+      Gradius_Enemies_Spritesheet_41: -8435942295177357574
+      Gradius_Enemies_Spritesheet_42: -5192045731061623244
+      Gradius_Enemies_Spritesheet_43: -1779374289261070997
+      Gradius_Enemies_Spritesheet_44: -3854161560578959875
+      Gradius_Enemies_Spritesheet_45: 6781549880518062689
+      Gradius_Enemies_Spritesheet_46: 7353271774381922955
+      Gradius_Enemies_Spritesheet_47: 2511301862754377528
+      Gradius_Enemies_Spritesheet_48: -9210579209524748450
+      Gradius_Enemies_Spritesheet_49: -272532953186716175
+      Gradius_Enemies_Spritesheet_5: 6919634986940398478
+      Gradius_Enemies_Spritesheet_50: 761875527813888029
+      Gradius_Enemies_Spritesheet_51: -3948379959401772392
+      Gradius_Enemies_Spritesheet_52: -1267514913243046158
+      Gradius_Enemies_Spritesheet_53: -3530158765715424075
+      Gradius_Enemies_Spritesheet_54: -2767951005640051213
+      Gradius_Enemies_Spritesheet_55: -7084438432598990770
+      Gradius_Enemies_Spritesheet_56: -3130608294624827531
+      Gradius_Enemies_Spritesheet_57: -2515776927020090396
+      Gradius_Enemies_Spritesheet_58: 4937570751749098450
+      Gradius_Enemies_Spritesheet_59: 8073283193647291644
+      Gradius_Enemies_Spritesheet_6: 2408960771409021981
+      Gradius_Enemies_Spritesheet_60: 6946862306246416969
+      Gradius_Enemies_Spritesheet_61: 4228702811625317931
+      Gradius_Enemies_Spritesheet_62: -8021998063533678082
+      Gradius_Enemies_Spritesheet_63: 6478557258487156030
+      Gradius_Enemies_Spritesheet_64: 1428285028988413528
+      Gradius_Enemies_Spritesheet_65: 7832579682279347209
+      Gradius_Enemies_Spritesheet_66: -8320117603121827478
+      Gradius_Enemies_Spritesheet_67: -3360939830705776762
+      Gradius_Enemies_Spritesheet_68: 7660803594254005469
+      Gradius_Enemies_Spritesheet_69: -4480355350187756083
+      Gradius_Enemies_Spritesheet_7: -2233746668239314801
+      Gradius_Enemies_Spritesheet_70: 5320296463290025482
+      Gradius_Enemies_Spritesheet_71: 4644261946344203926
+      Gradius_Enemies_Spritesheet_72: 6122782711232314700
+      Gradius_Enemies_Spritesheet_73: 1117096658436102129
+      Gradius_Enemies_Spritesheet_74: 5071471255352670683
+      Gradius_Enemies_Spritesheet_75: 6457314063953432685
+      Gradius_Enemies_Spritesheet_76: 7126028550931862665
+      Gradius_Enemies_Spritesheet_77: 6985498823745526670
+      Gradius_Enemies_Spritesheet_78: -6145306876301109055
+      Gradius_Enemies_Spritesheet_79: 6766259571562264864
+      Gradius_Enemies_Spritesheet_8: -7914486269389582369
+      Gradius_Enemies_Spritesheet_80: -8850834421508418148
+      Gradius_Enemies_Spritesheet_81: -7072724839833728608
+      Gradius_Enemies_Spritesheet_82: 7163053862358867747
+      Gradius_Enemies_Spritesheet_83: 4111218521800444788
+      Gradius_Enemies_Spritesheet_84: -4794558582790615275
+      Gradius_Enemies_Spritesheet_85: 4793460081102055559
+      Gradius_Enemies_Spritesheet_86: -6505835650732604420
+      Gradius_Enemies_Spritesheet_87: -2779848266243350543
+      Gradius_Enemies_Spritesheet_88: 6339655520748331160
+      Gradius_Enemies_Spritesheet_89: 1572172427137311071
+      Gradius_Enemies_Spritesheet_9: -3250973786457417263
+      Gradius_Enemies_Spritesheet_90: 8067599889490806219
+      Gradius_Enemies_Spritesheet_91: 8233231783034335820
+      Gradius_Enemies_Spritesheet_92: -3761034020357672847
+      Gradius_Enemies_Spritesheet_93: 6051602977996081711
+      Gradius_Enemies_Spritesheet_94: -6944595704231506982
+      Gradius_Enemies_Spritesheet_95: -7164073747427069339
+      Gradius_Enemies_Spritesheet_96: 8136527086188383562
+      Gradius_Enemies_Spritesheet_97: -1804962391561963562
+      Gradius_Enemies_Spritesheet_98: 5805251357861533292
+      Gradius_Enemies_Spritesheet_99: -2016184711412981532
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

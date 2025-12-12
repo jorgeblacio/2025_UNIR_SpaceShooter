@@ -34,4 +34,12 @@ public class WeaponManager : MonoBehaviour
         currentWeapon = availableWeapons[index];
         currentWeapon.gameObject.SetActive(true);
     }
+
+    public void PowerUpCurrentWeapon()
+    {
+        if (currentWeapon != null)
+        {
+            currentWeapon.PowerUp();
+        }
+    }
 }
