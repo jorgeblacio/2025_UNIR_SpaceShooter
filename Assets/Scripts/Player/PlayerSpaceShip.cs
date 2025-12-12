@@ -22,7 +22,7 @@ public class PlayerSpaceShip : MonoBehaviour
     [SerializeField] private float forwardThreshold = 0.1f;
 
     [Header("Weapon System")]
-    [SerializeField] private WeaponManager weaponManager;
+    public WeaponManager weaponManager;
 
     [Header("Death")]
     [SerializeField] private GameObject deathExplosion;
@@ -31,9 +31,8 @@ public class PlayerSpaceShip : MonoBehaviour
     
     private bool isDead = false;
 
-    [Header("Input")]
-    [SerializeField] InputActionReference move;
-    [SerializeField] InputActionReference shoot;
+    [HideInInspector] public InputActionReference move;
+    [HideInInspector] public InputActionReference shoot;
 
     private Vector2 rawMove;
     private Vector2 currentVelocity = Vector2.zero;
@@ -80,11 +79,24 @@ public class PlayerSpaceShip : MonoBehaviour
         UpdateShipSprite();
         UpdateEngineParticles();
         
-        // Handle shooting
         if (isShooting && weaponManager != null)
         {
             weaponManager.Fire();
         }
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            Die();
+        }
+    }
+
+    public void SetInputActions(InputActionReference moveAction, InputActionReference shootAction)
+    {
+        this.move = moveAction;
+        this.shoot = shootAction;
     }
 
     private void UpdateShipSprite()

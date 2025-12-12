@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2191417189278588821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5154583436528120617}
+  - component: {fileID: 2175427711253336478}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5154583436528120617
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191417189278588821}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.01, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2175427711253336478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2191417189278588821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2f922b2eef5749a8925e4a80057c9bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemySpawner
+  spawnPoint: {fileID: 0}
+  spawnX: 6.5
+  waves:
+  - formations:
+    - enemyPrefab: {fileID: 8779447804039020912, guid: d4e21b4cb7ab24488b1c66750df60212, type: 3}
+      relativePositions:
+      - {x: 0, y: 2}
+      - {x: 0, y: 1}
+      - {x: 0, y: 0}
+      - {x: 0, y: -1}
+      - {x: 0, y: -2}
+      spawnDelay: 0.3
+    - enemyPrefab: {fileID: 8779447804039020912, guid: d4e21b4cb7ab24488b1c66750df60212, type: 3}
+      relativePositions:
+      - {x: 0, y: 1.5}
+      - {x: 1, y: 1.5}
+      - {x: 2, y: 1.5}
+      - {x: 0, y: -1.5}
+      - {x: 1, y: -1.5}
+      - {x: 2, y: -1.5}
+      spawnDelay: 0.2
+    timeBetweenFormations: 2
+  - formations:
+    - enemyPrefab: {fileID: 8779447804039020912, guid: 23f0fd12079cb4eb39250182858c1b74, type: 3}
+      relativePositions:
+      - {x: 0, y: 2}
+      - {x: 0.5, y: 1}
+      - {x: 1, y: 0}
+      - {x: 1.5, y: -1}
+      - {x: 2, y: -2}
+      spawnDelay: 0.3
+    - enemyPrefab: {fileID: 8779447804039020912, guid: 23f0fd12079cb4eb39250182858c1b74, type: 3}
+      relativePositions:
+      - {x: 0, y: 3}
+      - {x: 0.5, y: 2}
+      - {x: 1, y: 1}
+      - {x: 1.5, y: 0}
+      - {x: 0, y: -3}
+      - {x: 0.5, y: -2}
+      - {x: 1, y: -1}
+      - {x: 1.5, y: 0}
+      spawnDelay: 0.2
+    timeBetweenFormations: 2
+  - formations:
+    - enemyPrefab: {fileID: 8779447804039020912, guid: aee00f433dd224cf79ccd5b572e46034, type: 3}
+      relativePositions:
+      - {x: 0, y: 4}
+      - {x: 1, y: 3}
+      - {x: 2, y: 2}
+      - {x: 3, y: 4}
+      - {x: 4, y: 3}
+      spawnDelay: 0.4
+    - enemyPrefab: {fileID: 8779447804039020912, guid: 23f0fd12079cb4eb39250182858c1b74, type: 3}
+      relativePositions:
+      - {x: 0, y: 4}
+      - {x: 0, y: 3.5}
+      - {x: 0, y: 3}
+      - {x: 0, y: 2.5}
+      - {x: 0, y: 2}
+      spawnDelay: 0.15
+    timeBetweenFormations: 2
+  autoStart: 1
+  timeBetweenWaves: 5

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 178016704614986795}
   - component: {fileID: 5827587150252447685}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Renderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,7 +103,7 @@ GameObject:
   - component: {fileID: 1791382178282756403}
   - component: {fileID: 4892626778144437584}
   - component: {fileID: 2833675715745538905}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnemyA
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -216,7 +216,7 @@ MonoBehaviour:
   hitSound: {fileID: 0}
   deathSound: {fileID: 0}
   audioVolume: 0.5
-  explosionEffect: {fileID: 0}
+  explosionEffect: {fileID: 2116526292403559526, guid: 8eaa2ede5b416468aaebb432257df645, type: 3}
   hitFlashDuration: 0.1
   movementType: 0
   moveSpeed: 3

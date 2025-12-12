@@ -29,23 +29,20 @@ public class Enemy : MonoBehaviour
             originalColor = spriteRenderer.color;
         }
         
-        // Setup audio source
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.playOnAwake = false;
-        audioSource.spatialBlend = 0; // 2D sound
+        audioSource.spatialBlend = 0; 
     }
     
     public virtual void TakeDamage(int damage)
     {
         currentHealth -= damage;
         
-        // Play hit sound
         if (hitSound != null && audioSource != null)
         {
             audioSource.PlayOneShot(hitSound, audioVolume);
         }
         
-        // Visual feedback
         if (currentHealth > 0)
         {
             StartCoroutine(FlashRed());
@@ -58,20 +55,15 @@ public class Enemy : MonoBehaviour
     
     protected virtual void Die()
     {
-        // Play death sound
         if (deathSound != null)
         {
             AudioSource.PlayClipAtPoint(deathSound, transform.position, audioVolume);
         }
         
-        // Spawn explosion effect
         if (explosionEffect != null)
         {
             Instantiate(explosionEffect, transform.position, Quaternion.identity);
         }
-        
-        // Add score (you can implement a score manager later)
-        // ScoreManager.Instance.AddScore(scoreValue);
         
         Destroy(gameObject);
     }

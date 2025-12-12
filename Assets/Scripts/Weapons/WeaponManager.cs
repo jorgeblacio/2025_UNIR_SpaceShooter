@@ -37,9 +37,6 @@ public class WeaponManager : MonoBehaviour
 
     public void PowerUpCurrentWeapon()
     {
-        if (currentWeapon != null)
-        {
-            currentWeapon.PowerUp();
-        }
+        SwitchWeapon(Mathf.Min(System.Array.IndexOf(availableWeapons, currentWeapon) + 1, availableWeapons.Length - 1));
     }
 }

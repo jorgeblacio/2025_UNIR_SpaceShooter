@@ -15,10 +15,9 @@ public abstract class Weapon : MonoBehaviour
 
     protected virtual void Start()
     {
-        // Setup audio source
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.playOnAwake = false;
-        audioSource.spatialBlend = 0; // 2D sound
+        audioSource.spatialBlend = 0;
     }
     
     public virtual void Fire()

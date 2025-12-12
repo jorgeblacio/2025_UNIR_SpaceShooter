@@ -1,12 +1,10 @@
 using UnityEngine;
 
-// Movement pattern interface
 public interface IMovementPattern
 {
     void Move(Transform transform, float deltaTime);
 }
 
-// Straight movement (basic)
 public class StraightMovement : IMovementPattern
 {
     private float speed;
@@ -22,7 +20,6 @@ public class StraightMovement : IMovementPattern
     }
 }
 
-// Sine wave movement
 public class SineWaveMovement : IMovementPattern
 {
     private float speed;
@@ -54,7 +51,6 @@ public class SineWaveMovement : IMovementPattern
     }
 }
 
-// Dive movement (swoops down)
 public class DiveMovement : IMovementPattern
 {
     private float speed;

@@ -80,14 +80,12 @@ public class EnemySpawner : MonoBehaviour
         }
     }
     
-    // Useful for testing - spawn a single enemy
     public void SpawnEnemy(GameObject enemyPrefab, Vector2 position)
     {
         Vector3 spawnPos = new Vector3(spawnX + position.x, position.y, 0);
         Instantiate(enemyPrefab, spawnPos, Quaternion.identity);
     }
     
-    // Visualize spawn area in editor
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;

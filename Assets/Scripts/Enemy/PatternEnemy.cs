@@ -1,6 +1,5 @@
 using UnityEngine;
 
-// Enemy with movement pattern - place this in PatternEnemy.cs
 public class PatternEnemy : Enemy
 {
     [Header("Movement")]
@@ -22,7 +21,6 @@ public class PatternEnemy : Enemy
     {
         base.Start();
         
-        // Initialize movement pattern
         switch (movementType)
         {
             case MovementType.Straight:
