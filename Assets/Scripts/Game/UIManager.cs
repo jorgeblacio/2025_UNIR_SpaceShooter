@@ -19,7 +19,6 @@ public class UIManager : MonoBehaviour
     [Header("Buttons")]
     [SerializeField] private Button startButton;
     [SerializeField] private Button restartButton;
-    [SerializeField] private Button quitButton;
     
     private void Start()
     {
@@ -31,11 +30,6 @@ public class UIManager : MonoBehaviour
         if (restartButton != null)
         {
             restartButton.onClick.AddListener(OnRestartGame);
-        }
-        
-        if (quitButton != null)
-        {
-            quitButton.onClick.AddListener(OnQuitGame);
         }
     }
     

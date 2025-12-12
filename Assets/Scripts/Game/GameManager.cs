@@ -150,10 +150,9 @@ public class GameManager : MonoBehaviour
         if (isGameActive && currentPlayer != null)
         {
             PlayerSpaceShip spaceShip = currentPlayer.GetComponent<PlayerSpaceShip>();
-            Debug.Log("Power-up picked up by player.");
+            
             if (spaceShip.weaponManager != null)
             {
-                Debug.Log("Powering up the player's weapon.");
                 spaceShip.weaponManager.PowerUpCurrentWeapon();
             }
         }

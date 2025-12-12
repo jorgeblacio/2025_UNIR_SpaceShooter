@@ -34,6 +34,8 @@ public class Enemy : MonoBehaviour
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.playOnAwake = false;
         audioSource.spatialBlend = 0; 
+
+        Destroy(gameObject, 8f);
     }
     
     public virtual void TakeDamage(int damage)

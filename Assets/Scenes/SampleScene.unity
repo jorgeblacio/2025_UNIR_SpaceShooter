@@ -137,7 +137,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &12333648
 RectTransform:
   m_ObjectHideFlags: 0
@@ -258,7 +258,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &29869040
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2999,7 +2999,7 @@ MonoBehaviour:
   gameOverText: {fileID: 439959686}
   startButton: {fileID: 455629769}
   restartButton: {fileID: 1451256788}
-  quitButton: {fileID: 29869041}
+  quitButton: {fileID: 0}
 --- !u!1 &1752251112 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2191417189278588821, guid: 37415ede489cd4479b8736067fe8dd0c, type: 3}
